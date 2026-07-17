@@ -1,16 +1,40 @@
-## Hi there 👋
+# ⚡ SYNAPSE
 
-<!--
-**JDG-UQO/JDG-UQO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## L'étincelle d'un collectif.
 
-Here are some ideas to get you started:
+Bienvenue sur le GitHub officiel de la délégation de l'Université du Québec en Outaouais aux Jeux de Génie 2027.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Notre GitHub centralise l'ensemble des projets liés à la délégation :
+
+- 📚 Documentation
+- 🌐 Site Web
+- 📱 Applications
+- 🤝 Partenariats
+- 📣 Communications
+- 🏆 Compétitions
+
+---
+
+## Dépôts principaux
+
+| Projet | Description |
+|---------|-------------|
+| docs | Documentation officielle |
+| website | Site Web de la délégation |
+| branding | Logo, identité graphique et ressources |
+| partnerships | Commandites et partenaires |
+| communications | Publications et matériel promotionnel |
+| compétitions | défis et pratique |
+| tools | Scripts et outils internes |
+
+---
+
+## Nos valeurs
+
+⚡ Collaboration
+
+🧠 Innovation
+
+🔗 Connexion
+
+🚀 Initiative
