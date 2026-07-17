@@ -1,6 +1,6 @@
-# ⚡ SYNAPSE
+# JDG-UQO
 
-## L'étincelle d'un collectif.
+## L'UQO au jeux de génie.
 
 Bienvenue sur le GitHub officiel de la délégation de l'Université du Québec en Outaouais aux Jeux de Génie 2027.
 
