@@ -7,7 +7,7 @@ Bienvenue sur le GitHub officiel de la délégation de l'Université du Québec 
 Notre GitHub centralise l'ensemble des projets liés à la délégation :
 
 - 📚 Documentation
-- 🌐 Site Web
+- 🌐 [Site Web](https://jdg-uqo.github.io/Cahier-de-partenariat-jeux-de-genies/)
 - 📱 Applications
 - 🤝 Partenariats
 - 📣 Communications
