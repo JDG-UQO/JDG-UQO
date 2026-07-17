@@ -20,7 +20,7 @@ Notre GitHub centralise l'ensemble des projets liés à la délégation :
 | Projet | Description |
 |---------|-------------|
 | docs | Documentation officielle |
-| website | Site Web de la délégation |
+| [website](https://jdg-uqo.github.io/Cahier-de-partenariat-jeux-de-genies/) | Site Web de la délégation |
 | branding | Logo, identité graphique et ressources |
 | partnerships | Commandites et partenaires |
 | communications | Publications et matériel promotionnel |
